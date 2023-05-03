@@ -1,1 +1,1 @@
-# IBM-Data-Analyst-Professional-Certificate-course
+# IBM-Data-Analyst-Capstone-Project
